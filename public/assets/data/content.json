@@ -1,0 +1,51 @@
+{
+    "siteName": "My Site",
+    "contactEmail": "mkheiry1@myseneca.ca",
+    "phone": "412-435-3455",
+    "address": "Toronto",
+    "mainContent": "<p>something</p>",
+    "mainNav": [
+        {
+            "url": "/",
+            "text": "Home",
+            "linkID": "",
+            "linkClass": "",
+            "newTab": false
+
+        },
+        {
+            "url": "/about.html",
+            "text": "About",
+            "linkID": "",
+            "linkClass": "",
+            "newTab": false
+
+        },
+        {
+            "url": "/blog.html",
+            "text": "blog",
+            "linkID": "",
+            "linkClass": "",
+            "newTab": false
+            
+
+        },
+        {
+            "url": "https://www.shopify.com",
+            "text": "store",
+            "linkID": "",
+            "linkClass": "",
+            "newTab": false
+            
+
+        },
+        {
+            "url": "/contact.html",
+            "text": "Contact",
+            "linkID": "",
+            "linkClass": "",
+            "newTab": false
+        }
+        
+    ]
+}

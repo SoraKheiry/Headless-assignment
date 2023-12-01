@@ -1,0 +1,14 @@
+{
+  "name": "inm320-js-json",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "lite-server --baseDir=\"public\""
+  },
+  "author": "Sora Kheiry",
+  "license": "Private",
+  "private": true,
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
